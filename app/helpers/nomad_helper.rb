@@ -1,0 +1,2 @@
+module NomadHelper
+end
